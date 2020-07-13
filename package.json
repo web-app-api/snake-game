@@ -6,10 +6,7 @@
   "scripts": {
     "deploy": "gh-pages -d game"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/web-app-api/snake-game.git"
-  },
+
   "keywords": [],
   "author": "",
   "license": "ISC",
